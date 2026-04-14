@@ -761,7 +761,7 @@ body {
     }
 
     .hamburger .line1 {
-        height: 4px;
+        height: 2px;
         background-color: white;
         transition: all 0.3s ease;
         display: block;
@@ -774,7 +774,7 @@ body {
 
     .hamburger .line2 {
         width: 22px;
-        height: 4px;
+        height: 2px;
         align-self: flex-end;
         background-color: white;
         transition: all 0.3s ease;
